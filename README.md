@@ -12,3 +12,7 @@ Created the repository on Git
 Downloaded the Git Desktop App for Windows
 Cloned the PythonPlay repository
 Edited it in VSCode.
+
+## Python Code
+
+Added the FizzBang.py game to Sequence Play
