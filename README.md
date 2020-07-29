@@ -16,3 +16,5 @@ Edited it in VSCode.
 ## Python Code
 
 Added the FizzBang.py game to Sequence Play
+Added the OpenCV folder to follow OpenCV tutorial
+Added the Mandelbrot folder to try some mandelbrot set image generators
