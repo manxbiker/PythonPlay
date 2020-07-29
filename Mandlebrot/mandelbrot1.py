@@ -1,5 +1,6 @@
 # Mandelbrot fractal 
 # FB - 201003254 
+#https://www.geeksforgeeks.org/mandelbrot-fractal-set-visualization-in-python/
 from PIL import Image 
 
 # drawing area 
