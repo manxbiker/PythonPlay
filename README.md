@@ -18,3 +18,6 @@ Edited it in VSCode.
 Added the FizzBang.py game to Sequence Play
 Added the OpenCV folder to follow OpenCV tutorial
 Added the Mandelbrot folder to try some mandelbrot set image generators
+Added the Graphs folder to try out some graph theory, staring with DFS and BFS
+Added the Python One Liners folder where I can try out some One Liners from the book
+Added Reqests for some web scraping experimentation (esp Oracle of Bacon with students at school)
